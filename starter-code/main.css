@@ -1,0 +1,44 @@
+/*
+Colors:
+
+Text: 1A1A1A
+Green: #00B172
+White: #FFF
+
+*/
+
+body {
+  font-family: Circular, Helvetica, Arial, sans-serif;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.main-content { 
+    background-image: url('images/landing.jpg');
+    background-repeat: no-repeat;
+    background-size: 650px;
+    Position: 0 0;
+    Repeat: no-repeat;
+    Size: cover;
+    Height: 650px;
+    text-align: center;
+}
+
+.navbar{
+position:fixed;
+float: left;
+}
+
+.songs{
+  float: left;
+  height: 250px;
+  padding-top: 10px;
+  width: 30%;
+  text-align:center;
+}
+
+.kanye-container {
+  background-color:#00B172;
+  text: white;
+
+}
